@@ -1,4 +1,4 @@
-function Delete-OctopusVariable{
+function Remove-OctopusVariable{
     param(
         [string]$projectName,
         [string]$variableName,

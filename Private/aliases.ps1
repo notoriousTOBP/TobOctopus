@@ -1,2 +1,2 @@
 Set-Alias runAdhocScript Invoke-AdhocScript
-
+Set-Alias Delete-OctopusVariable Remove-OctopusVariable
